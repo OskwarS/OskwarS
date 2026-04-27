@@ -31,3 +31,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=piotrsmet&color=blueviolet" alt="profile views" />
+</div>
