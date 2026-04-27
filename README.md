@@ -33,5 +33,5 @@ Here are some ideas to get you started:
 -->
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=piotrsmet&color=blueviolet" alt="profile views" />
+  <img src="https://komarev.com/ghpvc/?username=OskwarS&color=blueviolet" alt="profile views" />
 </div>
