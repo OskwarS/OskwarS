@@ -1,4 +1,5 @@
 ## Hi there 👋
+<p align="center">
 <table border="0">
   <tr>
     <td>
@@ -15,6 +16,7 @@
     </td>
   </tr>
 </table>
+</p>
 <!--
 **OskwarS/OskwarS** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
