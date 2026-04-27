@@ -1,5 +1,21 @@
 ## Hi there 👋
-![Najczęściej używane języki](https://github-readme-stats.vercel.app/api/top-langs/?username=OskwarS&layout=compact&theme=vision-friendly-dark)
+<table border="0">
+  <tr>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=OskwarS&layout=compact&theme=radical" alt="Most Used Languages" />
+    </td>
+    <td valign="top">
+      <h3>Kontakt 📬</h3>
+      <a href="LINK_DO_TWOJEGO_LINKEDINA">
+        <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="https://www.linkedin.com/in/oskar-sionek-b74b722b1/" />
+      </a>
+      <br><br>
+      <a href="mailto:TWÓJ_ADRES_MAIL">
+        <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="oskarsionek@gmail.com" />
+      </a>
+    </td>
+  </tr>
+</table>
 <!--
 **OskwarS/OskwarS** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
