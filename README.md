@@ -1,4 +1,5 @@
 ## Hi there 👋
+## Hi there 👋
 <table border="0">
   <tr>
     <td>
@@ -6,12 +7,12 @@
     </td>
     <td valign="top">
       <h3>Kontakt 📬</h3>
-      <a href="LINK_DO_TWOJEGO_LINKEDINA">
-        <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="https://www.linkedin.com/in/oskar-sionek-b74b722b1/" />
+      <a href="https://www.linkedin.com/in/oskar-sionek-b74b722b1/">
+        <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
       </a>
       <br><br>
-      <a href="mailto:TWÓJ_ADRES_MAIL">
-        <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="oskarsionek@gmail.com" />
+      <a href="mailto:oskarsionek@gmail.com">
+        <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
       </a>
     </td>
   </tr>
